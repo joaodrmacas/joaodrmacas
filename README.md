@@ -1,7 +1,7 @@
 Hi 👋 My name is João Maçãs
 ===========================
 
-Computer Science Pre-graduate
+Computer Science Undergraduate
 -----------------------------
 
 Been coding since Spring 2021
